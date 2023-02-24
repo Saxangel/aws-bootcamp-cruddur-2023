@@ -31,6 +31,6 @@ following the instructions on AWS CLI documentation [AWS CLI Documentation](http
 
 
 
-##Challenges
+## Challenges
 
 ### I did not encounter any challenges as i have been using AWS for sometime. 
